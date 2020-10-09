@@ -11,7 +11,7 @@ msgstr ""
 
 #: .project:1 About.form:57 FMain.form:178
 msgid "Startup Manager"
-msgstr "Başlangıç Yöneticisi"
+msgstr "Startup Manager"
 
 #: About.form:47
 msgid "https://app4deepin.com"
